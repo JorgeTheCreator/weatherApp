@@ -1,5 +1,4 @@
 
 ## WeatherApp
-https://imgflip.com/gif/2ferlg
-
+<img src="https://i.imgflip.com/2ferlg.gif" title="weather app gif"/>
 
